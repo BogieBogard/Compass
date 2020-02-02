@@ -1,7 +1,7 @@
 # UT Austin Coding Bootcamp - First Group Project
 Demo of the application:
 
-<img src="https://github.com/BogieBogard/Compass/blob/master/assets/images/demo.GIF" alt="demo.GIF">
+<img src="https://github.com/BogieBogard/Compass/blob/master/images/demo.GIF" alt="demo.GIF">
 
 ## Overview
 
